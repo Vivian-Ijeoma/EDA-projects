@@ -1,2 +1,3 @@
 # EDA-projects
 Data Analysis
+ConnectTel Telecom Company needs to tackle the problem of customers leaving their service, known as customer churn. This is a big problem because it threatens the company's growth. The current strategies to keep customers are not working well, causing valuable customers to choose competitors instead. To fix this, ConnectTel wants to create a powerful system that can predict when customers might leave, using advanced data analysis and machine learning. They want to accurately predict customer churn and then take actions to keep those customers, like offering special deals or better service. This plan will help ConnectTel keep more customers, make them happier, and stay ahead in the highly competitive telecommunications industry.
